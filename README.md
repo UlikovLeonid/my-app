@@ -1,2 +1,2 @@
 # my-app
-Training Social Network project on React
+ Training Social Network project  on React

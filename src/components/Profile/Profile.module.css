@@ -1,0 +1,22 @@
+.profile_bio_wrapper{
+	display: flex;
+	font-size: 16px;
+	margin-bottom: 20px;
+
+}
+.bkg{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.avatar{
+	padding: 5px;
+	width: 150px;
+	text-align: center;
+	font-size: 1.2vw;
+}
+.bio{
+}
+
+.item{
+	font-size: 1.5vw	;	
+}

@@ -1,0 +1,25 @@
+.navbar {
+  grid-area: navbar;
+  background-color: #373736;
+}
+
+.item {
+}
+
+.content-bkg {
+  width: 100px;
+}
+
+.item:hover {
+  background-color: #62625e;
+}
+.link {
+  display: block;
+  padding: 10px 20px;
+
+  font-size: 2.5vw;
+  color: #9eb768;
+}
+.item .active {
+  color: gold;
+}

@@ -1,0 +1,3 @@
+<div className={s.bkg}>
+		<img src = 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec438657-80ea-4e86-9ac8-e8dbf9544006/d86xnbs-de3b7f66-c293-40f1-a3ab-df77b8fbf768.jpg/v1/fill/w_800,h_180,q_70,strp/banniere_tim_by_marcolivierrodrigue_d86xnbs-400t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjMwIiwicGF0aCI6IlwvZlwvZWM0Mzg2NTctODBlYS00ZTg2LTlhYzgtZThkYmY5NTQ0MDA2XC9kODZ4bmJzLWRlM2I3ZjY2LWMyOTMtNDBmMS1hM2FiLWRmNzdiOGZiZjc2OC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hhRp6ThN6K1csSxjpxd_TgxqqIv20-5Lh9sH3D707lU' alt ='laa'/>
+	</div>
